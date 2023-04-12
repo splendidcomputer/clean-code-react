@@ -1,0 +1,1 @@
+# typescript extensions for Clean Code
